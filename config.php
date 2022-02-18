@@ -11,3 +11,4 @@ define('DB_PWD', '');
 // Admin
 define('ADMIN_LOG', 'admin');
 define('ADMIN_PWD', '1234');
+    
